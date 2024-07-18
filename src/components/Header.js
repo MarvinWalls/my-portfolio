@@ -2,13 +2,13 @@ import React from 'react';
 
 const Header = () => {
   return (
-    <header className="bg-gray-800 text-white p-4">
-      <nav>
-        <ul className="flex space-x-4">
-          <li><a href="#home" className="hover:underline">Home</a></li>
-          <li><a href="#about" className="hover:underline">About</a></li> {/* Added link to About */}
-          <li><a href="#substack" className="hover:underline">Substack Articles</a></li>
-          <li><a href="#contact" className="hover:underline">Contact</a></li>
+    <header className="bg-gray-800 text-white p-4 shadow-md">
+      <nav className="container mx-auto">
+        <ul className="flex space-x-4 justify-center">
+          <li><a href="#home" className="hover:text-yellow-500">Home</a></li>
+          <li><a href="#about" className="hover:text-yellow-500">About</a></li>
+          <li><a href="#substack" className="hover:text-yellow-500">Substack Articles</a></li>
+          <li><a href="#contact" className="hover:text-yellow-500">Contact</a></li>
         </ul>
       </nav>
     </header>
