@@ -9,7 +9,7 @@ const About = () => {
           Coming from a tumultuous childhood, I started working as a janitor cleaning up after weddings at the age of 14. It was during this time that I first began to automate and streamline processes. Growing up in financial need, I took on various odd jobs and continuously demonstrated a knack for process improvement and managing others.
         </p>
         <p className="text-lg leading-relaxed mt-4">
-          From the simple days of cleaning up after weddings, I went on to make pizzas, ride a trash truck, grind parts on an assembly line, deliver groceries, and drive for Uber. My journey then led to more technical roles, such as working IT Help Desk in college and managing a team of six while overseeing data for over 2 million customer sites at Stanley Security now Securitas.
+          From the simple days of cleaning up after weddings, I went on to make pizzas, ride a trash truck, grind parts on an assembly line, deliver groceries, and drive for Uber. My journey then led to more technical roles, such as working IT Help Desk in college and managing a team of six while overseeing data for over 2 million customer sites.
         </p>
         <p className="text-lg leading-relaxed mt-4">
           Today, I am currently building and streamlining processes for Heartland Dental, the largest DSO in the world. I create dashboards with SAP SAC, optimize workflows with VBA and SQL, and handle various other tasks as needed by the organization. In the future, I aim to continue honing my coding skills and potentially return to Purdue for a Master's in Artificial Intelligence.
@@ -21,8 +21,5 @@ const About = () => {
     </section>
   );
 }
-
-export default About;
-
 
 export default About;
