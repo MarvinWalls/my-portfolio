@@ -2,7 +2,26 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Example animation */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+h1 {
+  animation: fadeIn 2s ease-in;
+}
+
+img {
+  animation: fadeIn 2s ease-in;
+}
+
 body {
+  background: linear-gradient(to right, #f8f9fa, #e9ecef);
   font-family: 'Arial', sans-serif;
 }
 
