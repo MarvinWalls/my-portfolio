@@ -17,14 +17,14 @@ function App() {
       <main className="p-4">
         <section id="home">
           <h1 className="text-2xl font-bold">Welcome to My Portfolio</h1>
-          <p>Hi, I'm Marvin Walls. I am a 28 year old Purdue finance and management grad with an abundance of optimism for the future. Particularly the future surrounding data and all of it's potential uses</p>
+          <p>I am a Purdue University graduate with dual majors in Finance and Management, complemented by a Certificate in Entrepreneurship. With 4 years of experience in data management and analytics, I have a proven track record of leveraging advanced tools and methodologies to optimize processes, enhance data visibility, and drive significant cost savings. My expertise spans SAP Analytics Cloud, SQL, VBA, and project management, underscoring my passion for harnessing data to unlock future possibilities.</p>
         </section>
         <section id="substack" className="mt-8">
           <h2 className="text-xl font-semibold">Substack Articles</h2>
           <ul className="list-disc pl-5 mt-2">
-            <li><a href="https://marvinwalls.substack.com/p/braving-the-storm-my-first-financial" target="_blank" className="text-blue-500 hover:underline">Braving the Storm: My First Financial Loss</a></li>
-            <li><a href="https://substack.com/home/post/p-95514265" target="_blank" className="text-blue-500 hover:underline">If you had a different name would your life be different?</a></li>
-            <!-- Add more links as needed -->
+            <li><a href="https://marvinwalls.substack.com/p/braving-the-storm-my-first-financial" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">Braving the Storm: My First Financial Loss</a></li>
+            <li><a href="https://substack.com/home/post/p-95514265" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">If you had a different name would your life be different?</a></li>
+            {/* Add more links as needed */}
           </ul>
         </section>
         {/* Add more sections as needed */}
