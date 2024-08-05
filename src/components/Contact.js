@@ -9,7 +9,7 @@ const Contact = () => {
           Feel free to reach out to me:
         </p>
         <ul className="mt-4 text-center space-y-2">
-          <li>Email: <a href="mailto:marvinwalls@marvinwalls.com" className="text-blue-500 hover:underline">marvinwalls777@gmail.com</a></li>
+          <li>Email: <a href="mailto:marvinwalls@marvinwalls.com" className="text-blue-500 hover:underline">marvinwalls@marvinwalls.com</a></li>
           <li>Phone: 812-619-1517</li>
           <li>Location: Lafayette, IN</li>
           <li><a href="https://www.linkedin.com/in/marvinwalls/" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">LinkedIn Profile</a></li>
