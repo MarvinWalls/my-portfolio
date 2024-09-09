@@ -13,7 +13,9 @@ const SubstackArticles = () => {
             <li className="mb-2">
               <a href="https://substack.com/home/post/p-95514265" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">If you had a different name would your life be different?</a>
             </li>
-            {/* Add more links as needed */}
+            <li className="mb-2">
+              <a href="https://marvinwalls.substack.com/p/hacking-the-hunter" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">Hacking the Hunter</a>
+            </li>
           </ul>
         </div>
       </div>
