@@ -33,7 +33,7 @@ const Projects = () => {
                 https://github.com/MarvinWalls/PinballWizard
               </a>
             </p>
-            <p>Description: Work in progress! An ML program designed to independently play and learn the classic Windows Pinball Game uses only OCR score data and CNN to process the images. Please feel free to reach out with questions, hoping to have this fully hashed out with a video explaining how to set up and use it by the end of 2024.</p>
+            <p>Description: Work in progress! An ML program designed to independently play and learn the classic Windows Pinball Game uses only OCR score data and CNN to process the images. Please feel free to reach out with questions. Virtual Mmchines via Google Cloud computing aren't cheap so I am hoping to have this fully hashed out with a video explaining how to set up and use it by the end of 2025.</p>
           </div>
         </div>
       </div>
