@@ -35,7 +35,7 @@ const About = () => {
 
           <p className="text-lg leading-relaxed">
             My specialization is SAP Analytics Cloud scripting and advanced
-            dashboard development—front-end scripting, complex filtering
+            dashboard development front-end scripting, complex filtering
             behavior, script variables and dynamic text frameworks, blended model
             troubleshooting, and performance optimization. If a reporting
             requirement can be defined, I can architect and deliver it.
